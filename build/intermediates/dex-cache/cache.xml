@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chris/Documents/RuntimePermTutorial/app/build/intermediates/exploded-aar/com.commonsware.cwac/cam2/0.2.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77598001b539334d533dc614f0e6d3bffa3eb180">
+        <dex dex="/home/chris/Documents/RuntimePermTutorial/app/build/intermediates/pre-dexed/debug/classes-f160ba2eec0481d6c8af053fbe8a760efa973c44.jar" />
+    </item>
+    <item
+        jar="/home/chris/Documents/RuntimePermTutorial/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ca504182198db4a0f81779ca3fe391374c8cb66a">
+        <dex dex="/home/chris/Documents/RuntimePermTutorial/app/build/intermediates/pre-dexed/debug/classes-f0bd7fb8735a45710c58024f1217dccf8c38fb0c.jar" />
+    </item>
+    <item
+        jar="/home/chris/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/home/chris/Documents/RuntimePermTutorial/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-4a7b1a09a01fe25c40b57223661d00b90201fb61.jar" />
+    </item>
+    <item
+        jar="/home/chris/Documents/RuntimePermTutorial/app/build/intermediates/exploded-aar/com.githang/com-phillipcalvin-iconbutton/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f20ea6c0651b6abd6e8ff0e07dd1d517ba8a56ab">
+        <dex dex="/home/chris/Documents/RuntimePermTutorial/app/build/intermediates/pre-dexed/debug/classes-a1b1b68bad300f6c585e0685381e0b1cd52937f8.jar" />
+    </item>
+
+</items>

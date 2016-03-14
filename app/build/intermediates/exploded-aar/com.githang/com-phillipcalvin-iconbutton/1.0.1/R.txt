@@ -1,0 +1,3 @@
+int attr iconPadding 0x7f010000
+int[] styleable IconButton { 0x7f010000 }
+int styleable IconButton_iconPadding 0
